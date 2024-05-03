@@ -10,7 +10,7 @@ const Navbar = () => {
           href="/"
           className="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none"
         >
-            <img src={Logo} alt=""/>
+            <img src={"https://res.cloudinary.com/dsuuinvqp/image/upload/v1714700694/Sabzi/tmiimoqyw5vqrkwn7hqw.png"} alt=""/>
         </a>
 
         <ul className="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">

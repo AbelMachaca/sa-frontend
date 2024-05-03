@@ -8,7 +8,7 @@ const Hero = () => {
       <div className="row flex-lg-row-reverse align-items-center g-5">
         <div className="col-10 col-sm-8 col-lg-5">
           <img
-            src={HeroImage}
+            src={"https://res.cloudinary.com/dsuuinvqp/image/upload/v1714700693/Sabzi/zovoc2g6xbj9iq6rnq6x.png"}
             className="d-block mx-lg-auto img-fluid"
             alt="Bootstrap Themes"
             width="700"
@@ -21,7 +21,7 @@ const Hero = () => {
            <span>Your Online Farmers Market</span>
           </h1>
           <div className="d-flex align-items-center my-5">
-            <img src={Certificate} alt="" className="me-3"/>
+            <img src={"https://res.cloudinary.com/dsuuinvqp/image/upload/v1714700692/Sabzi/qbam7doa4sjorj1kuli9.png"} alt="" className="me-3"/>
             <p className="fw-bold">We deliver organic vegetables fresh from 
                 <br />our fields to your doorstep.</p>
           </div>

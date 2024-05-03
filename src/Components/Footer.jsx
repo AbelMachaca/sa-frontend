@@ -28,7 +28,7 @@ const Footer = () => {
         <footer className="py-5">
           <div className="row row-cols-2 row-cols-md-4 text-white">
             <div className="d-flex align-items-center">
-              <img src={Logo} alt="" className="w-50 h-50" />
+              <img src={"https://res.cloudinary.com/dsuuinvqp/image/upload/v1714700692/Sabzi/f4bnhlyr9lobizq8w6t9.png"} alt="" className="w-50 h-50" />
             </div>
             <div className="">
               <h4>About</h4>

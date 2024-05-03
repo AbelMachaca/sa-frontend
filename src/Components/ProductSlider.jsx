@@ -58,43 +58,43 @@ const ProductSlider = () => {
             <Slider {...settings}>
                 <div className='p-1'>
                     <SProduct 
-                        Image = {Veg1}
+                        Image = {"https://res.cloudinary.com/dsuuinvqp/image/upload/v1714700694/Sabzi/ysgnv0qoeedj02dyzsbx.jpg"}
                         Description="Celery potato scallion desert raisin horseradish spinach carrot"
                     />
                 </div>
                 <div className='p-1'>
                 <SProduct 
-                        Image = {Veg2}
+                        Image = {"https://res.cloudinary.com/dsuuinvqp/image/upload/v1714700694/Sabzi/ojvzdp9xfovuqgciyws2.jpg"}
                         Description="Celery potato scallion desert raisin horseradish spinach carrot"
                     />
                 </div>
                 <div className='p-1'>
                 <SProduct 
-                        Image = {Veg3}
+                        Image = {"https://res.cloudinary.com/dsuuinvqp/image/upload/v1714700694/Sabzi/frugnfg1lpzmnnq8k0eq.jpg"}
                         Description="Celery potato scallion desert raisin horseradish spinach carrot"
                     />
                 </div>
                 <div className='p-1'>
                 <SProduct 
-                        Image = {Veg4}
+                        Image = {"https://res.cloudinary.com/dsuuinvqp/image/upload/v1714700695/Sabzi/ffv6x6sgmtp8o3oaz7ty.png"}
                         Description="Celery potato scallion desert raisin horseradish spinach carrot"
                     />
                 </div>
                 <div className='p-1'>
                 <SProduct 
-                        Image = {Veg5}
+                        Image = {"https://res.cloudinary.com/dsuuinvqp/image/upload/v1714700694/Sabzi/f0hi11prucmaeqy5fl9b.jpg"}
                         Description="Celery potato scallion desert raisin horseradish spinach carrot"
                     />
                 </div>
                 <div className='p-1'>
                 <SProduct 
-                        Image = {Veg6}
+                        Image = {"https://res.cloudinary.com/dsuuinvqp/image/upload/v1714700694/Sabzi/ndnso5eyhoudpz5s54r2.jpg"}
                         Description="Celery potato scallion desert raisin horseradish spinach carrot"
                     />
                 </div>
                 <div className='p-1'>
                 <SProduct 
-                        Image = {Veg7} className='w-75 h-75'
+                        Image = {"https://res.cloudinary.com/dsuuinvqp/image/upload/v1714700694/Sabzi/qghfa1c4kxgkaf5jggsk.jpg"} className='w-75 h-75'
                         Description="Celery potato scallion desert raisin horseradish spinach carrot"
                     />
                 </div>

@@ -17,19 +17,19 @@ const Products = () => {
       </div>
       <div className="row mt-5">
         <Product
-          Image={Product1}
+          Image={"https://res.cloudinary.com/dsuuinvqp/image/upload/v1714700693/Sabzi/co0wybf94t3pqlj0b2ir.png"}
           Name="Eggplant"
           Price="$0.5/kg"
           Color="p1color"
         />
         <Product
-          Image={Product2}
+          Image={"https://res.cloudinary.com/dsuuinvqp/image/upload/v1714700693/Sabzi/eywfaidsufgwbtjmlvzt.png"}
           Name="Cauliflower"
           Price="$0.7/kg"
           Color="p2color"
         />
         <Product
-          Image={Product3}
+          Image={"https://res.cloudinary.com/dsuuinvqp/image/upload/v1714700693/Sabzi/bitz6oths9jrdgaiu4fc.png"}
           Name="Carrot"
           Price="$0.4/kg"
           Color="p3color"
@@ -38,7 +38,7 @@ const Products = () => {
           <div className="p-1">
             <div className="border box-pumpkin shadow-sm d-flex p4color">
               <div className="text-center px-0 px-lg-5">
-                <img src={Product4} alt="" className="p-Image" />
+                <img src={"https://res.cloudinary.com/dsuuinvqp/image/upload/v1714700692/Sabzi/jchkxyaa3mkvsk4ydtc9.png"} alt="" className="p-Image" />
               </div>
               <div className="d-flex flex-column justify-content-center">
                 <h3>Best Fresh Testing Pumpkin</h3>
@@ -55,7 +55,7 @@ const Products = () => {
             
             <div className="border shadow-sm py-4 px-3 p5color">
             <div className="text-center px-0 px-lg-5">
-                <img src={Product5} alt="" className='w-75 h-75' />
+                <img src={"https://res.cloudinary.com/dsuuinvqp/image/upload/v1714700692/Sabzi/z00paz6xxn67scvtuxot.png"} alt="" className='w-75 h-75' />
               </div>
               <h3>Best Fresh Testing Bell Pepper</h3>
               <p>$1/kg</p>

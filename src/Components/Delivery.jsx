@@ -10,7 +10,7 @@ const Delivery = () => {
     <div className="row g-4 py-5 row-cols-1 row-cols-sm-2 row-cols-md-3">
       <div className="col px-5 text-center">
         <div className="mb-3">
-          <img src={Process1} className='w-50 h-50' alt="" />
+          <img src={"https://res.cloudinary.com/dsuuinvqp/image/upload/v1714700693/Sabzi/cexahvzppkoxmmsjjqjq.png"} className='w-50 h-50' alt="" />
         </div>
         <h5>Pick Your Veg</h5>
         <p>
@@ -19,7 +19,7 @@ const Delivery = () => {
       </div>
       <div className=" col px-5 text-center">
         <div className="mb-3">
-          <img src={Process2} className='w-50 h-50' alt="" />
+          <img src={"https://res.cloudinary.com/dsuuinvqp/image/upload/v1714700693/Sabzi/fccctasevtx6pbcnj2iu.png"} className='w-50 h-50' alt="" />
         </div>
         <h5>We Deliver the Bag</h5>
         <p>
@@ -28,7 +28,7 @@ const Delivery = () => {
       </div>
       <div className=" col px-5 text-center">
         <div className="mb-3">
-        <img src={Process3} className='w-50 h-50' alt="" />
+        <img src={"https://res.cloudinary.com/dsuuinvqp/image/upload/v1714700693/Sabzi/spktar9qlhx58go2a7py.png"} className='w-50 h-50' alt="" />
         </div>
         <h5>You Enjoy Your Veg</h5>
           <p>
